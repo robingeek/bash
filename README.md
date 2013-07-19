@@ -1,0 +1,4 @@
+bash
+====
+
+scripts, vimrc, etc
